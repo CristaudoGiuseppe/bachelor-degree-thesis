@@ -6,7 +6,7 @@ Bachelor thesis regarding the develop of a software which allow users to buy lim
 
 <ul>
     <li><b>Server Side</b>: The system is able to authenticate clients using a key, IP, discord unique identification. It also provide a Discord bot wich allow the user to reset, bind and unbind his own key</li>
-    <li>Client Side: After setting up the configuration.json file the user is able to bot the major online release on different e-commerce platform such as shopify, magento and demandware.</li>
+    <li><b>Client Side</b>: After setting up the configuration.json file the user is able to bot the major online release on different e-commerce platform such as shopify, magento and demandware.</li>
 </ul>
 
 # Project Status
